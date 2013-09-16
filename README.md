@@ -59,5 +59,5 @@ You can type `./counts` to get a count of the number of recipies each ingredient
 
 Doesn't add up quantities or anything clever like that.
 
-I'm not bothering to add the actual recipies, just their names and ingredients.
+I'm not bothering to add the actual recipies, just their names and ingredients. But recipe steps could be added in comment lines starting with # in the same file.
 
